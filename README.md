@@ -1,4 +1,4 @@
-# Inteligencia-Artificial-UMC
+# Inteligência-Artificial-UMC
 # Inteligência Artificial - Repositório da Disciplina
 
 Repositório público exclusivo para armazenamento e versionamento das atividades e notebooks desenvolvidos durante a disciplina de Inteligência Artificial.
